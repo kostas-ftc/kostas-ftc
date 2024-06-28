@@ -1,1 +1,3 @@
-intrested in robotics and helping others with their robots
+- intrested in FIRST robotics and educating in computer aided design
+
+- discord: `onshape`
